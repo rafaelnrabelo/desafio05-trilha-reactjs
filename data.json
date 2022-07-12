@@ -1,0 +1,232 @@
+{
+  "continents": [
+    {
+      "slug": "europe",
+      "name": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "banner": "https://source.unsplash.com/IZ86s5eV4hA",
+      "numberOfCountries": 50,
+      "numberOfLanguages": 60,
+      "mostVisitedQuantity": 32,
+      "mostPopularCities": [
+        {
+          "city": "Londres",
+          "country": "Reino Unido",
+          "initials": "GB",
+          "image": "https://source.unsplash.com/Q6UehpkBSnQ"
+        },
+        {
+          "city": "Paris",
+          "country": "França",
+          "initials": "FR",
+          "image": "https://source.unsplash.com/t9Td0zfDTwI"
+        },
+        {
+          "city": "Roma",
+          "country": "Itália",
+          "initials": "IT",
+          "image": "https://source.unsplash.com/Q4g0Q-eVVEg"
+        },
+        {
+          "city": "Praga",
+          "country": "República Tcheca",
+          "initials": "CZ",
+          "image": "https://source.unsplash.com/S2Wek5-5oEc"
+        },
+        {
+          "city": "Amsterdã",
+          "country": "Holanda",
+          "initials": "NL",
+          "image": "https://source.unsplash.com/Tew7Cgj9PnA"
+        }
+      ]
+    },
+    {
+      "slug": "africa",
+      "name": "África",
+      "description": "É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+      "banner": "https://source.unsplash.com/T-LfvX-7IVg",
+      "numberOfCountries": 54,
+      "numberOfLanguages": 2000,
+      "mostVisitedQuantity": 7,
+      "mostPopularCities": [
+        {
+          "city": "África do Sul",
+          "country": "Cidade do Cabo",
+          "initials": "ZA",
+          "image": "https://source.unsplash.com/1GgWbP74phY"
+        },
+        {
+          "city": "Tanzânia",
+          "country": "Dodoma",
+          "initials": "TZ",
+          "image": "https://source.unsplash.com/tEYD58OrLiY"
+        },
+        {
+          "city": "Etiópia",
+          "country": "Addis Ababa",
+          "initials": "ET",
+          "image": "https://source.unsplash.com/v1pcGRXSmW8"
+        },
+        {
+          "city": "Seychelles",
+          "country": "Victória",
+          "initials": "SC",
+          "image": "https://source.unsplash.com/W1v3GDg9OUo"
+        }
+      ]
+    },
+    {
+      "slug": "north-america",
+      "name": "América do Norte",
+      "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica)",
+      "banner": "https://source.unsplash.com/rssyLMR_nWQ",
+      "numberOfCountries": 23,
+      "numberOfLanguages": 430,
+      "mostVisitedQuantity": 10,
+      "mostPopularCities": [
+        {
+          "city": "Nova York",
+          "country": "Albany",
+          "initials": "US",
+          "image": "https://source.unsplash.com/TaCk3NspYe0"
+        },
+        {
+          "city": "Miami",
+          "country": "Tallahassee",
+          "initials": "US",
+          "image": "https://source.unsplash.com/pAWY7xrsLwc"
+        },
+        {
+          "city": "Los Angeles",
+          "country": "Sacramento",
+          "initials": "US",
+          "image": "https://source.unsplash.com/wdCkqK1oRIc"
+        },
+        {
+          "city": "Orlando",
+          "country": "Tallahassee",
+          "initials": "US",
+          "image": "https://source.unsplash.com/HCKVHAEbkus"
+        },
+        {
+          "city": "São Francisco",
+          "country": "Sacramento",
+          "initials": "US",
+          "image": "https://source.unsplash.com/4_4b1sah3_0"
+        }
+      ]
+    },
+    {
+      "slug": "south-america",
+      "name": "América do Sul",
+      "description": "A América do Sul ocupa uma área de 17 819 100 quilômetros quadrados, localiza-se a 60º 00' 00 de longitude oeste do Meridiano de Greenwich e a 20º 00' 00 de latitude sul da Linha do Equador e com fusos horários -6, -5, -4, -3 e -2 horas em relação a hora mundial GMT.  No planeta Terra, o continente faz parte do continente pan-americano. É banhado pelo mar do Caribe, oceano Atlântico e oceano Pacífico.",
+      "banner": "https://source.unsplash.com/nMRC4Oykn1Q",
+      "numberOfCountries": 13,
+      "numberOfLanguages": 5,
+      "mostVisitedQuantity": 21,
+      "mostPopularCities": [
+        {
+          "city": "Rio de Janeiro",
+          "country": "Rio de Janeiro",
+          "initials": "BR",
+          "image": "https://source.unsplash.com/7F65HDP0-E0"
+        },
+        {
+          "city": "Buenos Aires",
+          "country": "Argentina",
+          "initials": "AR",
+          "image": "https://source.unsplash.com/kVxmhEHD6gg"
+        },
+        {
+          "city": "Machu Picchu",
+          "country": "Peru",
+          "initials": "PE",
+          "image": "https://source.unsplash.com/rFESpq5MMTg"
+        },
+        {
+          "city": "São Paulo",
+          "country": "São Paulo",
+          "initials": "BR",
+          "image": "https://source.unsplash.com/mabogysS4Tg"
+        },
+        {
+          "city": "Santiago",
+          "country": "Chile",
+          "initials": "CL",
+          "image": "https://source.unsplash.com/QH3rBhcJS54"
+        }
+      ]
+    },
+    {
+      "slug": "oceania",
+      "name": "Oceania",
+      "description": "O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "banner": "https://source.unsplash.com/x_H-9suOpck",
+      "numberOfCountries": 16,
+      "numberOfLanguages": 450,
+      "mostVisitedQuantity": 3,
+      "mostPopularCities": [
+        {
+          "city": "Austrália",
+          "country": "Sidney",
+          "initials": "AU",
+          "image": "https://source.unsplash.com/jK9dT34TfuI"
+        },
+        {
+          "city": "Nova Zelândia",
+          "country": "Wellington",
+          "initials": "NZ",
+          "image": "https://source.unsplash.com/LZVmvKlchM0"
+        },
+        {
+          "city": "Fiji",
+          "country": "Suva",
+          "initials": "FJ",
+          "image": "https://source.unsplash.com/ax_K7Ts1k9E"
+        }
+      ]
+    },
+    {
+      "slug": "asia",
+      "name": "Ásia",
+      "description": "Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "banner": "https://source.unsplash.com/8o4W9LZv6eo",
+      "numberOfCountries": 50,
+      "numberOfLanguages": 2300,
+      "mostVisitedQuantity": 15,
+      "mostPopularCities": [
+        {
+          "city": "Hong Kong",
+          "country": "City of Victoria",
+          "initials": "CN",
+          "image": "https://source.unsplash.com/DdQkVaQbSsg"
+        },
+        {
+          "city": "Tailândia",
+          "country": "Bangkok",
+          "initials": "TH",
+          "image": "https://source.unsplash.com/g52OIhol73M"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "initials": "SG",
+          "image": "https://source.unsplash.com/Gf_KqXHU-PY"
+        },
+        {
+          "city": "Macau",
+          "country": "China",
+          "initials": "CH",
+          "image": "https://source.unsplash.com/HR2awndNZi8"
+        },
+        {
+          "city": "Dubai",
+          "country": "Emirados Árabes Unidos",
+          "initials": "AE",
+          "image": "https://source.unsplash.com/gfMEelIy7r8"
+        }
+      ]
+    }
+  ]
+}
